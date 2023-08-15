@@ -1,0 +1,27 @@
+Apples
+3.99
+Produce
+Bananas
+0.48
+Produce
+Grapes
+2.99
+Produce
+Chicken
+6.99
+Meat
+Ground Beef
+4.99
+Meat
+Salmon
+9.99
+Meat
+Waffles
+6.99
+Frozen
+Pizza
+4.99
+Frozen
+Popsicle
+2.99
+Frozen

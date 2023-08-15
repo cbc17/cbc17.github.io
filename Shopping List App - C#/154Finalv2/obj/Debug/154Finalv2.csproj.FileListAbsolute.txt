@@ -1,0 +1,7 @@
+C:\Users\Cody\source\repos\154Finalv2\154Finalv2\bin\Debug\154Finalv2.exe.config
+C:\Users\Cody\source\repos\154Finalv2\154Finalv2\bin\Debug\154Finalv2.exe
+C:\Users\Cody\source\repos\154Finalv2\154Finalv2\bin\Debug\154Finalv2.pdb
+C:\Users\Cody\source\repos\154Finalv2\154Finalv2\obj\Debug\154Finalv2.csproj.AssemblyReference.cache
+C:\Users\Cody\source\repos\154Finalv2\154Finalv2\obj\Debug\154Finalv2.csproj.CoreCompileInputs.cache
+C:\Users\Cody\source\repos\154Finalv2\154Finalv2\obj\Debug\154Finalv2.exe
+C:\Users\Cody\source\repos\154Finalv2\154Finalv2\obj\Debug\154Finalv2.pdb
